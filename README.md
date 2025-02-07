@@ -1,5 +1,5 @@
 # MOVIE-RATING-PREDICTION-WITH-PYTHON
-The CodeSoft internship task, "Movie Rating Prediction with Python," entails building a machine learning model to predict movie ratings. Using a dataset containing movie details such as genres, cast, director, budget, and release date, the task encompasses various steps:
+The   "Movie Rating Prediction with Python," entails building a machine learning model to predict movie ratings. Using a dataset containing movie details such as genres, cast, director, budget, and release date, the task encompasses various steps:
 
 1. **Data Collection**: Gathering the movie dataset, typically available in CSV or other structured formats.
 
